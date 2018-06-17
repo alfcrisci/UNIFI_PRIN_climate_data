@@ -1,6 +1,6 @@
 ## FONDAZIONE OSSERVATORIO XIMENIANO (ONLUS)
 
-![logo] (logo_ximeniano.)
+![logo](logo_ximeniano_di_firenze.png)
 
 Direttore: Prof. Emilio Borchi
 v. Borgo San Lorenzo 26
