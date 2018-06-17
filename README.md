@@ -1,4 +1,4 @@
-# UNIFI PRIN GIS data repository
+# UNIFI PRIN DATABASE of climate data
 
 This data was created to perform investigation for PRIN Progetto di ricerca di rilevante interesse nazionale 2015 
 
