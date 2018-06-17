@@ -1,4 +1,6 @@
-# UNIFI PRIN DATABASE of climate data related to investigated area
+# UNIFI PRIN 2015 CLIMATIC DATABASE 
+
+## Climatic and weather data related to investigated area
 
 This database was created to perform investigation for PRIN (Progetto di ricerca di rilevante interesse nazionale 2015).
 
