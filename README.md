@@ -1,10 +1,20 @@
-# UNIFI PRIN DATABASE of climate data
+# UNIFI PRIN DATABASE of climate data related to investigated area
 
-This data was created to perform investigation for PRIN Progetto di ricerca di rilevante interesse nazionale 2015 
+This database was created to perform investigation for PRIN (Progetto di ricerca di rilevante interesse nazionale 2015).
+
+## Authors
+
+ISTITUTO di BIOMETEOROLOGIA IBIMET-CNR Consiglio Nazionale delle Ricerche
+
+   
+### Alfonso Crisci a.crisci@ibimet.cnr.it
+
+### Marco Morabito m.morabito@ibimet.cnr.it
+
 
 ### ADAPTIVE DESIGN e INNOVAZIONI TECNOLOGICHE PER LA RIGERNARAZIONE RESILIENTE DEI DISTRETTI URBANI IN REGIME DI CAMBIAMENTO CLIMATICO
 
-Coordinato dal Prof. Roberto Bologna -  DIDA  Dipartimento di Architetttura Università di Firenze
+Prof. Roberto Bologna -  DIDA  Dipartimento di Architetttura Università di Firenze
 
 ![Area di progetto](Area_PRIN.jpg)
 
@@ -25,7 +35,6 @@ Codice_CFR TOS01001225  LAT 43.82   LON 11.17 ELEV 33   REGTOS_CFR_CasePasserini
 Codice_CFR TOS01001215  LAT 43.76 	LON 11.19 ELEV 42   REGTOS_CFR_Scandicci_SanGiusto.rds
 
 Fields in R data.frame data, hour, min, Tair, RH, wind, winddir, rain, SunJ
-
 
 
 ## LAMMA model data file
