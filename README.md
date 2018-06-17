@@ -1,3 +1,9 @@
-# UNIFI PRIN climate data repository
+# UNIFI PRIN GIS data repository
 
-Data repository for PRIN 2015 data
+This data was created to perform investigation for PRIN Progetto di ricerca di rilevante interesse nazionale 2015 
+
+### ADAPTIVE DESIGN e INNOVAZIONI TECNOLOGICHE PER LA RIGERNARAZIONE RESILIENTE DEI DISTRETTI URBANI IN REGIME DI CAMBIAMENTO CLIMATICO
+
+Coordinato dal Prof. Roberto Bologna -  DIDA  Dipartimento di Architetttura Università di Firenze
+
+![Area di progetto](Area_PRIN.jpg)
