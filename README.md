@@ -1,5 +1,7 @@
 # UNIFI PRIN 2015 CLIMATIC DATABASE 
 
+[![DOI](https://zenodo.org/badge/137524702.svg)](https://zenodo.org/badge/latestdoi/137524702)
+
 ## Climatic and weather data related to investigated area
 
 This database was created to perform investigation for PRIN (Progetto di ricerca di rilevante interesse nazionale 2015).
