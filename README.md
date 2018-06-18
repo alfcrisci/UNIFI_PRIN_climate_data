@@ -2,6 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/137524702.svg)](https://zenodo.org/badge/latestdoi/137524702)
 
+Crisci , Alfonso, & Morabito, Marco. (2018). UNIFI IBIMET PRIN 2015 CLIMATIC DATABASE (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1292130
+
+
+
 ## Climatic and weather data related to investigated area
 
 This database was created to perform investigation for PRIN (Progetto di ricerca di rilevante interesse nazionale 2015).
